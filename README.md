@@ -71,3 +71,7 @@
       "singleQuote": true,
       "trailingComma": "es5"
     }`
+
+13. `yarn add eslint-plugin-react-hooks -D`
+
+14. Em **.eslintrc**, add `'react-hooks'` em **plugins**
